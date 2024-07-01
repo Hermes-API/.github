@@ -1,7 +1,5 @@
 # HERMES API - ICP Social Media Integration API
 
-## Objective
-
 Hermes API is a social media integration API for the Internet Computer Protocol (ICP) ecosystem, facilitating seamless communication and data exchange between dApps on ICP and traditional social media platforms
 
 ## API Features
